@@ -33,8 +33,9 @@ html,body{
 
 header h1 {
     font-size: 3.5rem;
-    color: #ffff00;
-    /* color: black; */
+    color: whitesmoke;
+    /* background-color: rgba(0,0,0,0.8) */
+    /* color: #228c22 */
 }
 
 main{
@@ -84,6 +85,7 @@ form button{
     justify-content: center;
     text-align: justify;
     background-color: rgb(31, 31, 31, 0.7);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     max-width: 650px;
 }
 
@@ -103,6 +105,7 @@ h3{
         height: auto;
     }
     header h1{
+        background-color: transparent;
         font-size: 2.5rem;
         color: whitesmoke;
     }
@@ -119,5 +122,7 @@ h3{
     }
     .responseField{
         width: 90%;
+        margin-bottom: 1em;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     }
 }
