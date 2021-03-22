@@ -1,13 +1,13 @@
 # Weather-app
 Simple Current Weather App
 
-HTML
+## HTML
 
   -HTML5 Tags
   
   -Validations
   
-CSS
+## CSS
 
   -Responsive
 
@@ -17,7 +17,7 @@ CSS
 
   -Transitions
 
-JAVASCRIPT
+## JAVASCRIPT
 
   -AJAX (Get Request) using plain javascript (XHR)
   
